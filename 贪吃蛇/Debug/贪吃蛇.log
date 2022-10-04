@@ -1,0 +1,4 @@
+﻿  源.cpp
+H:\VisualStudio\projects\游戏文件夹！\贪吃蛇\源.cpp(211,12): warning C4101: “k”: 未引用的局部变量
+H:\VisualStudio\projects\游戏文件夹！\贪吃蛇\源.cpp(211,9): warning C4101: “j”: 未引用的局部变量
+  贪吃蛇.vcxproj -> H:\VisualStudio\projects\游戏文件夹！\贪吃蛇\Debug\贪吃蛇.exe
